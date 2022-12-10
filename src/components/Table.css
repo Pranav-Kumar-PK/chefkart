@@ -1,0 +1,24 @@
+.ant-table-tbody .ant-table-row:nth-child(even) {
+    background-color: rgba(11, 201, 214, 0.237);
+}
+
+.ant-table-tbody .ant-table-row:nth-child(odd) {
+    background-color: rgba(182, 234, 238, 0.205);
+}
+
+.ant-table-row-click {
+    background-color: rgba(13, 134, 165, 0.479) !important
+}
+
+.time-table-row-select>.ant-spin-nested-loading>.ant-spin-container>div>.ant-table-content>.ant-table-body>table>tbody>tr:hover>td {
+    background-color: unset;
+}
+.ant-table-thead>tr>th{
+    background-color: green;
+  }
+
+.table__class {
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
